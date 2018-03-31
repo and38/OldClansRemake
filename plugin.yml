@@ -1,0 +1,28 @@
+name: Clans
+main: clans.ClansMain
+version: 0.1
+description: A factions style gamemode with classes and abilities.
+commands:
+    clan:
+        description: Base command for all Clans sub commands.
+        usage: /<command>
+        aliases: [c]
+    gold:
+        description: Base command for all Gold sub commands.
+        usage: /<command>
+        aliases: [g]
+    list:
+        description: Base command for ahhhll Gold sub commands.
+        usage: /<command>
+    energy:
+        description: sefsf
+        usage: /<command>
+    cc:
+        description: Command for using clan chat.
+        usage: /<command>
+    ac:
+        description: Command for using ally chat.
+        usage: /<command>
+    maintenance:
+       description: Command for putting the server in maintenance.
+       usage: /<command>
